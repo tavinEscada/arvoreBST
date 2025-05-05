@@ -11,7 +11,7 @@ Execute o programa com:
 ./main
 
 ## Funcionamento
-Todas as funções são feitas com base nas implementações em Ziviani, XXXX.
+Todas as funções são feitas com base nas implementações de N. Ziviani
 Dentre as funcionalidades, temos, a serem acessadas no menu:
 1 - Inserir elementos na árvore;
 2 - Remover elementos da árvore;
@@ -20,3 +20,7 @@ Dentre as funcionalidades, temos, a serem acessadas no menu:
 5 - Exibir a quantidade de nós (elementos) na árvore;
 6 - Exibir a altura da árvore;
 7 - Verificar se um valor está na árvore;
+
+## Referência
+N. Ziviani. Projeto de Algoritmos com Implementações em Pascal e C. Disponível em:
+<http://www2.dcc.ufmg.br/livros/algoritmos/>.
