@@ -13,6 +13,7 @@ Execute o programa com:
 ## Funcionamento
 Todas as funções são feitas com base nas implementações de N. Ziviani
 Dentre as funcionalidades, temos, a serem acessadas no menu:
+
 1 - Inserir elementos na árvore;
 
 2 - Remover elementos da árvore;
