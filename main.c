@@ -112,7 +112,14 @@ void printPos(Apontador c){
     printf("%d ", c->Chave);
 }
 
-
+/**
+ * @author tavinescada
+ * @param q
+ * @param r pointer to the root cell
+ * 
+ * 
+ * 
+ */
 void antecessor(Apontador q, Apontador *r){
     if((*r)->Dir != NULL){
         antecessor(q, &(*r)->Dir);
@@ -172,7 +179,13 @@ void printRemoveOrdem(Apontador *c){
       
 }
 
-//retorna a altura da árvore
+/**
+ * calculando altura da bst
+ * 
+ * @param raiz apontador para a célula raiz
+ * 
+ * @return int - altura do  no
+ */
 int altura(Apontador raiz){
 
     if(raiz == NULL){
